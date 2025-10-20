@@ -8,11 +8,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR-BACKEND-URL.onrender.com/api/:path*"
+      "destination": "https://sonder-backend-7viy.onrender.com/api/:path*"
     },
     {
       "source": "/socket.io/:path*",
-      "destination": "https://YOUR-BACKEND-URL.onrender.com/socket.io/:path*"
+      "destination": "https://sonder-backend-7viy.onrender.com/socket.io/:path*"
     },
     {
       "source": "/(.*)",
